@@ -1,6 +1,6 @@
 ﻿Imports Entidades
-Module CotorraTest
-    Sub CotorraTest()
+Public Module CotorraTest
+    Sub Cotorra()
         Dim cotorra1 As New Cotorra()
 
         cotorra1.Nombre = "Joa"

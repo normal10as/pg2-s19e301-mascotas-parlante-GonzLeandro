@@ -1,5 +1,5 @@
 ﻿Module Module1
     Sub main()
-        CotorraTest()
+        Cotorra()
     End Sub
 End Module
