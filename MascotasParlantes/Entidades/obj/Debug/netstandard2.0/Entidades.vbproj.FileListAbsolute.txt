@@ -1,0 +1,9 @@
+C:\Users\LaCositaEsa\Source\Repos\normal10as\pg2-s19e301-mascotas-parlante-GonzLeandro\MascotasParlantes\Entidades\bin\Debug\netstandard2.0\Entidades.deps.json
+C:\Users\LaCositaEsa\Source\Repos\normal10as\pg2-s19e301-mascotas-parlante-GonzLeandro\MascotasParlantes\Entidades\bin\Debug\netstandard2.0\Entidades.dll
+C:\Users\LaCositaEsa\Source\Repos\normal10as\pg2-s19e301-mascotas-parlante-GonzLeandro\MascotasParlantes\Entidades\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Users\LaCositaEsa\Source\Repos\normal10as\pg2-s19e301-mascotas-parlante-GonzLeandro\MascotasParlantes\Entidades\obj\Debug\netstandard2.0\Entidades.vbprojAssemblyReference.cache
+C:\Users\LaCositaEsa\Source\Repos\normal10as\pg2-s19e301-mascotas-parlante-GonzLeandro\MascotasParlantes\Entidades\obj\Debug\netstandard2.0\Entidades.vbproj.CoreCompileInputs.cache
+C:\Users\LaCositaEsa\Source\Repos\normal10as\pg2-s19e301-mascotas-parlante-GonzLeandro\MascotasParlantes\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\LaCositaEsa\Source\Repos\normal10as\pg2-s19e301-mascotas-parlante-GonzLeandro\MascotasParlantes\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.vb
+C:\Users\LaCositaEsa\Source\Repos\normal10as\pg2-s19e301-mascotas-parlante-GonzLeandro\MascotasParlantes\Entidades\obj\Debug\netstandard2.0\Entidades.dll
+C:\Users\LaCositaEsa\Source\Repos\normal10as\pg2-s19e301-mascotas-parlante-GonzLeandro\MascotasParlantes\Entidades\obj\Debug\netstandard2.0\Entidades.pdb
