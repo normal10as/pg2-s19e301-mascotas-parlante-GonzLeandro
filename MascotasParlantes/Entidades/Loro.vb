@@ -6,7 +6,6 @@ Public Class Loro
     End Sub
     Private memoria As Queue(Of String)
 
-    Private _edad As Short
     Public ReadOnly Property Edad As Short
         Get
             Return CalcularEdad(FechaNacimiento)
@@ -36,20 +35,27 @@ Public Class Loro
     Private Function CalcularEdad(FechaNacimiento As Date) As UShort
         Dim DifEdad As Int16
         Dim fechaActual As Date = Date.Now
+
         DifEdad = (fechaActual.Year) - (FechaNacimiento.Year)
+        If (fechaActual.Month - FechaNacimiento.Month) Then
+            DifEdad -= 1
+        ElseIf (fechaActual.Month = FechaNacimiento.Month And fechaActual.Day < FechaNacimiento.Day) Then
+            DifEdad -= 1
+        End If
         Return DifEdad
     End Function
 
     Public Overridable Sub Escuchar(frase As String)
         memoria.Enqueue(frase)
     End Sub
+    Private frase As String
     Public Function Hablar() As String
-        Dim frase As String = ""
         If memoria.Count > 0 Then
             frase += memoria.Dequeue()
         End If
         Return frase
     End Function
+
     Public Overrides Function ToString() As String
         Return Nombre
     End Function
